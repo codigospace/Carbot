@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-08-05T22:29:25Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.22,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "CarBot_Pedro"
+        },
+        "Owner": "Ulises Gordillo <ulises.gordillo@gmail.com>",
+        "Size": {
+            "X": 59.69,
+            "Y": 90.17
+        }
+    }
+}
